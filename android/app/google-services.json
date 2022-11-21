@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "317014636904",
+    "project_id": "flutter-app-domicilios",
+    "storage_bucket": "flutter-app-domicilios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317014636904:android:64543df2ec8ff9506bfedd",
+        "android_client_info": {
+          "package_name": "app.moviles.flutter_domicilios_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317014636904-fum3ek8scp435lu94cf9tdge175jevdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmYRPAaNQq0X7RzS19IsNCoWnh-8VttPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317014636904-fum3ek8scp435lu94cf9tdge175jevdn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "317014636904-rs4cl1m6livr1hi94o6cf6bhbuq4qvcm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.moviles.flutterDomiciliosApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
